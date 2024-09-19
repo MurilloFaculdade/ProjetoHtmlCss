@@ -1,0 +1,28 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+   margin: 0;
+   padding: 15px;
+   background-color: rgba(255, 255, 255, 0.788)    
+   }
+   
+.container{
+    display: block;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+.profissões{
+   margin: 25px;
+   padding: 5px;
+   background-color: rgb(255, 255, 255);
+   border: 1.5px solid black;
+   text-align: center;
+   box-shadow: 1px 1px 1px 1px rgb(128, 128, 128);
+   
+   }
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;   
+   }
